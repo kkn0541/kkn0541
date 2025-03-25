@@ -54,6 +54,6 @@
 <br>
 
 ### 🪪 Me
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kkn0541))](https://velog.io/@kkn0541/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kkn0541)](https://velog.io/@kkn0541/posts)
 <a href="mailto:kkn0541@naver.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=kkn0541@naver.com"/></a>
 
