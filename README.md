@@ -43,7 +43,7 @@
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/kkn0541/">
+        <a href="https://github.com/kkn0541?tab=repositories">
          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkn0541&layout=compact&hide_border=true&theme=graywhite" />
         </a>
       </th>
