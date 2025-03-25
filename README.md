@@ -43,11 +43,6 @@
   <thead>
     <tr>
       <th>
-          <a href="https://github.com/kkn0541/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkn0541&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=graywhite" />
-        </a>
-      </th>
-      <th>
         <a href="https://github.com/kkn0541/github-readme-stats">
          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkn0541&layout=compact&hide_border=true&theme=graywhite" />
         </a>
@@ -59,6 +54,6 @@
 <br>
 
 ### 🪪 Me
-[![Velog's GitHub stats]()](https://velog.io/@kkn0541/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=smileperson))](https://velog.io/@kkn0541/posts)
 <a href="mailto:kkn0541@naver.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=kkn0541@naver.com"/></a>
 
